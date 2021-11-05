@@ -2,7 +2,7 @@
 * Passos Data - cria o data set  "Funcionarios";
 
 Data Funcionarios;
-	input matricula $ nome $ idade $ sexo $;
+	input matricula $ nome $ idade sexo $;
 	
 	datalines;
 	M01 george 58 M
