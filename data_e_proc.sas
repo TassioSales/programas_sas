@@ -16,13 +16,13 @@ run;
 proc print data= Funcionarios;
 run;
 
-/*? Passo DATA 
-	? Começa com a palavra DATA. 
-	? É usado para leitura e modificação de dados, oriundos de fontes diversas. 
-	? Cria um data set.
+/*Passo DATA 
+	1 - Começa com a palavra DATA. 
+	2 - É usado para leitura e modificação de dados, oriundos de fontes diversas. 
+	3 - Cria um data set.*/
  
-? Passo PROC 
-	? Começa com a palavra PROC. 
-	? É normalmente usado para invocar alguma procedure para análise de dados do
+/*Passo PROC 
+	1 - Começa com a palavra PROC. 
+	2 - É normalmente usado para invocar alguma procedure para análise de dados do
 	SAS.
-	? Produz algum tipo de relatório, gráfico, modelo ou tabela de resultados*/
+	3 - Produz algum tipo de relatório, gráfico, modelo ou tabela de resultados*/
