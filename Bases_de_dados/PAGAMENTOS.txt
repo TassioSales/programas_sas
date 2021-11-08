@@ -1,0 +1,4 @@
+Amanda 150 150
+Ramon  300
+Nelson 150 75 75
+Ines   150 150
