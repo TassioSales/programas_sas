@@ -1,0 +1,16 @@
+AL,Alagoas
+BA,Bahia
+CE,Ceará
+MA,Maranhão
+PB,Paraíba
+PI,Piauí
+PE,Pernambuco
+RN,Rio Grande do Norte
+SE,Sergipe
+ES,Espírito Santo
+MG,Minas Gerais
+RJ,Rio de Janeiro
+SP,São Paulo
+PR,Paraná
+RS,Rio Grande do Sul
+SC,Santa Catarina
